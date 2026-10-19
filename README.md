@@ -1,18 +1,69 @@
-﻿# Portfólio QA · Nicolas Seabra da Rosa
+# Portfólio QA — Nicolas Seabra da Rosa
 
-Site estático em HTML, CSS e JavaScript com o visual do currículo de Nicolas: navegação azul fixa, fundo cinza-claro e cartões brancos arredondados. Conteúdo profissional baseado no LinkedIn e no currículo publicado. Sem dependências: abra `index.html` no navegador.
+Portfólio profissional de Quality Assurance (QA) com foco em testes funcionais, testes de API e evolução em automação de testes.
 
-## Arquivos
-- `index.html` — conteúdo e estrutura das seções.
-- `styles.css` — visual, cores e layout responsivo.
-- `script.js` — menu móvel, alternância de tema e ano do rodapé.
+O projeto apresenta minha evolução prática em qualidade de software, utilizando tecnologias e ferramentas aplicadas ao desenvolvimento e à validação de aplicações web.
 
-## Personalizar
-Edite `index.html` para alterar textos, projetos e experiências. Copie um cartão (`article`) para incluir certificados, artigos, eventos ou apresentações. A paleta e os estilos ficam em `styles.css`.
+## 🌐 Acesse o portfólio
 
-Os nomes de empregadores, clientes e produtos foram omitidos no resumo de experiência. O pacote não inclui telefone nem e-mail. Antes de publicar, revise links e remova credenciais, tokens, dados de clientes e informações internas. Use placeholders como `INSIRA_SUA_SENHA_AQUI` em exemplos públicos.
+**[Visualizar meu portfólio online](https://nicolas-nsr.github.io/Portifolio-QA/)**
 
-## Publicar no GitHub Pages
-1. Envie os arquivos desta pasta para a raiz do repositório, deixando `index.html` na raiz.
-2. Em **Settings → Pages**, escolha **Deploy from a branch**.
-3. Selecione a branch principal e a pasta `/(root)` e salve.
+## 🧪 Tecnologias e ferramentas
+
+- **Cypress:** automação de testes de interface e fluxos web.
+- **JavaScript:** linguagem utilizada no desenvolvimento e na automação.
+- **HTML5 e CSS3:** estrutura e estilização da aplicação.
+- **Git e GitHub:** versionamento e gerenciamento do projeto.
+- **Mocha e Chai:** ferramentas em estudo para a prática de testes automatizados.
+- **Jest:** biblioteca para prática de testes unitários.
+
+## 🚀 Testes automatizados
+
+O projeto está sendo ampliado com exemplos práticos de automação, com o objetivo de exercitar diferentes níveis de teste e fortalecer meus conhecimentos em qualidade de software.
+
+- Testes automatizados de interface com Cypress.
+- Prática de testes unitários com Mocha e Chai.
+- Estudos de testes unitários com Jest.
+- Evolução contínua das estratégias de validação e cobertura de testes.
+
+## 📁 Estrutura do projeto
+
+- `index.html` — estrutura e conteúdo do portfólio.
+- `styles.css` — estilos e layout responsivo.
+- `script.js` — interações e funcionalidades da página.
+- `cypress/` — estrutura dos testes automatizados.
+- `cypress.config.js` — configuração do Cypress.
+- `package.json` — dependências e scripts do projeto.
+
+## ▶️ Como executar localmente
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Nicolas-nsr/Portifolio-QA.git
+   ```
+
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd Portifolio-QA
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Abra o arquivo `index.html` no navegador ou utilize um servidor local para executar a aplicação.
+
+5. Para executar os testes com Cypress, utilize os scripts disponíveis no `package.json`.
+
+## 🌍 Publicação
+
+O portfólio pode ser publicado gratuitamente pelo GitHub Pages. Os arquivos estáticos devem estar disponíveis na branch e na pasta configuradas em **Settings → Pages**.
+
+## 🎯 Objetivo
+
+Documentar minha trajetória em QA, demonstrar conhecimentos técnicos por meio de exemplos práticos e compartilhar minha evolução em automação de testes.
+
