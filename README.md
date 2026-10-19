@@ -38,8 +38,8 @@ O projeto está sendo ampliado com exemplos práticos de automação, com o obje
 ## Fluxo de branches
 
 - `main`: versão de produção do portfólio.
-- `develop`: desenvolvimento e integração de mudanças.
 - `qa`: validação e testes antes da publicação.
+- `develop`: desenvolvimento e integração de mudanças.
 
 
 ## ▶️ Como executar localmente
