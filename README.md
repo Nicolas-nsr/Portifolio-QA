@@ -35,6 +35,13 @@ O projeto está sendo ampliado com exemplos práticos de automação, com o obje
 - `cypress.config.js` — configuração do Cypress.
 - `package.json` — dependências e scripts do projeto.
 
+## Fluxo de branches
+
+- `main`: versão de produção do portfólio.
+- `develop`: desenvolvimento e integração de mudanças.
+- `qa`: validação e testes antes da publicação.
+
+
 ## ▶️ Como executar localmente
 
 1. Clone o repositório:
