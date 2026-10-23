@@ -39,7 +39,7 @@ O projeto está sendo ampliado com exemplos práticos de automação, com o obje
 
 - `main`: versão de produção do portfólio.
 - `qa`: validação e testes antes da publicação.
-- `develop`: desenvolvimento e integração de mudanças.
+- `develop`: novos desenvolvimentos e integração de mudanças.
 
 
 ## ▶️ Como executar localmente
